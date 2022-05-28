@@ -1,12 +1,16 @@
 # Authentication with Google Authenticator in Node.js
 
-### Installation
-After cloning this repository, install the dependencies:
 
-````npm install````
+## Prerequisites
+You need Node.js installed on your machine to be able to follow along with this tutorial
 
-### Run the Server
-Run the server with the following command:
+### Install the dependencies
+```npm install```
 
-````npm start````
-The server will run at ````localhost:3000````.
+### Run app
+Let's test it all out. First, run the server:
+
+```npm start```
+
+The server will run at ```localhost:3000```
+
